@@ -10,4 +10,4 @@ I used to be a mathematical physicist, working on Skyrmions and other solitons. 
 
 <img src="https://github.com/user-attachments/assets/3c406776-758c-45c6-ae14-c566404c3b03" alt="A skyrmion with dodecahedral symmetry" width="200" style="float: right"/>
 
-You can see 409 of them in [A Smörgåsbord of Skyrmions](https://arxiv.org/abs/2202.01792) or generate your own using a Julia package that I helped create called [Skyrmions3D.jl](https://github.com/chrishalcrow/Skyrmions3D.jl/).
+You can see 409 of them in [A Smörgåsbord of Skyrmions](https://arxiv.org/abs/2202.01792) or generate your own using Julia and [Skyrmions3D.jl](https://github.com/chrishalcrow/Skyrmions3D.jl/).
